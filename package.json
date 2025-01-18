@@ -27,6 +27,7 @@
   "files": [
     "lib",
     "types",
+    "src",
     "vitest-chrome-schema.json",
     "vitest-chrome.d.ts"
   ],
